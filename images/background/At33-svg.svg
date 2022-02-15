@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1437 659" width="1437" height="659">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L1437 0L1437 659L0 659L0 0Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="957.019" y1="554.248" x2="132.235" y2="46.375">
+			<stop offset="0" stop-color="#6740c8"  />
+			<stop offset="1" stop-color="#9d77ff"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="935.027" y1="517.702" x2="734.882" y2="922.513">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="203.243" y1="474.894" x2="46.469" y2="791.984">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="28.003" y1="166.37" x2="-90.067" y2="405.179">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="1460.812" y1="336.37" x2="1342.742" y2="575.179">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="1662.739" y1="103.702" x2="1462.594" y2="508.513">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="937.082" y1="-494.298" x2="736.937" y2="-89.487">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { opacity: 0.051;fill: #c4c4c4 } 
+		.shp3 { opacity: 0.051;fill: url(#grd2) } 
+		.shp4 { opacity: 0.051;fill: url(#grd3) } 
+		.shp5 { opacity: 0.051;fill: url(#grd4) } 
+		.shp6 { opacity: 0.051;fill: url(#grd5) } 
+		.shp7 { opacity: 0.051;fill: url(#grd6) } 
+		.shp8 { opacity: 0.051;fill: url(#grd7) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M0 0L1437 0L1437 659L0 659L0 0Z" />
+			<path id="Layer" class="shp1" d="M-27.91 -7L1437 -7L1437 573.93C1054.89 610.01 240.93 676.68 89.25 654.62C-62.43 632.57 -52.06 204.35 -27.91 -7Z" />
+			<g id="Folder 18">
+				<rect width="1437" height="659" id="Color Fill 1" style="fill: #1d0321" />
+			</g>
+			<path id="Layer" class="shp2" d="M633.07 376.39L1236.98 659.02C1287.07 682.46 1307.74 741.47 1283.23 791.05L1171.73 1016.57C1147.22 1066.14 1086.92 1087.27 1036.84 1063.83L432.93 781.2C382.84 757.76 362.16 698.74 386.67 649.17L498.18 423.64C522.69 374.07 582.98 352.95 633.07 376.39Z" />
+			<path id="Layer" class="shp3" d="M633.07 376.39L1236.98 659.02C1287.07 682.46 1307.74 741.47 1283.23 791.05L1171.73 1016.57C1147.22 1066.14 1086.92 1087.27 1036.84 1063.83L432.93 781.2C382.84 757.76 362.16 698.74 386.67 649.17L498.18 423.64C522.69 374.07 582.98 352.95 633.07 376.39Z" />
+			<path id="Layer" class="shp2" d="M-13.65 373.39L420.14 576.4C470.23 599.84 490.9 658.86 466.39 708.43L398.26 846.24C373.75 895.81 313.45 916.93 263.37 893.49L-170.43 690.48C-220.51 667.04 -241.19 608.02 -216.68 558.45L-148.55 420.64C-124.04 371.07 -63.74 349.95 -13.65 373.39Z" />
+			<path id="Layer" class="shp4" d="M-13.65 373.39L420.14 576.4C470.23 599.84 490.9 658.86 466.39 708.43L398.26 846.24C373.75 895.81 313.45 916.93 263.37 893.49L-170.43 690.48C-220.51 667.04 -241.19 608.02 -216.68 558.45L-148.55 420.64C-124.04 371.07 -63.74 349.95 -13.65 373.39Z" />
+			<path id="Layer" class="shp2" d="M-112.99 100.39L168.99 232.35C219.08 255.79 239.75 314.81 215.24 364.38L185.82 423.91C161.31 473.48 101.01 494.6 50.92 471.16L-231.06 339.2C-281.14 315.76 -301.82 256.74 -277.31 207.17L-247.88 147.64C-223.37 98.07 -163.07 76.95 -112.99 100.39Z" />
+			<path id="Layer" class="shp5" d="M-112.99 100.39L168.99 232.35C219.08 255.79 239.75 314.81 215.24 364.38L185.82 423.91C161.31 473.48 101.01 494.6 50.92 471.16L-231.06 339.2C-281.14 315.76 -301.82 256.74 -277.31 207.17L-247.88 147.64C-223.37 98.07 -163.07 76.95 -112.99 100.39Z" />
+			<path id="Layer" class="shp2" d="M1319.82 270.39L1601.8 402.35C1651.89 425.79 1672.56 484.81 1648.05 534.38L1618.62 593.91C1594.12 643.48 1533.82 664.6 1483.73 641.16L1201.75 509.2C1151.67 485.76 1130.99 426.74 1155.5 377.17L1184.93 317.64C1209.44 268.07 1269.74 246.95 1319.82 270.39Z" />
+			<path id="Layer" class="shp6" d="M1319.82 270.39L1601.8 402.35C1651.89 425.79 1672.56 484.81 1648.05 534.38L1618.62 593.91C1594.12 643.48 1533.82 664.6 1483.73 641.16L1201.75 509.2C1151.67 485.76 1130.99 426.74 1155.5 377.17L1184.93 317.64C1209.44 268.07 1269.74 246.95 1319.82 270.39Z" />
+			<path id="Layer" class="shp2" d="M1360.78 -37.61L1964.69 245.02C2014.78 268.46 2035.46 327.47 2010.95 377.05L1899.44 602.57C1874.93 652.14 1814.64 673.27 1764.55 649.83L1160.64 367.2C1110.55 343.76 1089.88 284.74 1114.39 235.17L1225.89 9.64C1250.4 -39.93 1310.7 -61.05 1360.78 -37.61Z" />
+			<path id="Layer" class="shp7" d="M1360.78 -37.61L1964.69 245.02C2014.78 268.46 2035.46 327.47 2010.95 377.05L1899.44 602.57C1874.93 652.14 1814.64 673.27 1764.55 649.83L1160.64 367.2C1110.55 343.76 1089.88 284.74 1114.39 235.17L1225.89 9.64C1250.4 -39.93 1310.7 -61.05 1360.78 -37.61Z" />
+			<path id="Layer" class="shp2" d="M635.13 -635.61L1239.04 -352.98C1289.12 -329.54 1309.8 -270.53 1285.29 -220.95L1173.79 4.57C1149.28 54.14 1088.98 75.27 1038.89 51.83L434.98 -230.8C384.89 -254.24 364.22 -313.26 388.73 -362.83L500.23 -588.36C524.74 -637.93 585.04 -659.05 635.13 -635.61Z" />
+			<path id="Layer" class="shp8" d="M635.13 -635.61L1239.04 -352.98C1289.12 -329.54 1309.8 -270.53 1285.29 -220.95L1173.79 4.57C1149.28 54.14 1088.98 75.27 1038.89 51.83L434.98 -230.8C384.89 -254.24 364.22 -313.26 388.73 -362.83L500.23 -588.36C524.74 -637.93 585.04 -659.05 635.13 -635.61Z" />
+		</g>
+	</g>
+</svg>

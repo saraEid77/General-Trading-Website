@@ -1,0 +1,74 @@
+@media all and (min-width: 992px) {
+  .navbar .nav-item .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    margin-top: 0;
+  }
+  .navbar .dropdown-menu.fade-down {
+    top: 80%;
+    transform: rotateX(-75deg);
+    transform-origin: 0% 0%;
+  }
+  .navbar .dropdown-menu.fade-up {
+    top: 180%;
+  }
+  .navbar .nav-item:hover .dropdown-menu {
+    transition: 0.3s;
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+    transform: rotateX(0deg);
+  }
+
+}
+@media screen and (max-width: 991px) {
+  .navbar-collapse.collapsing .navbar-nav {
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: -45%;
+    transition: all 0.2s ease;
+  }
+
+  .navbar-collapse.show .navbar-nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    flex-direction: column;
+    height: auto;
+    width: 45%;
+    transition: left 0.35s ease;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    z-index: 99999;
+    background-color: #fff;
+  }
+  .sprite-mobile-small {
+    display: none;
+  }
+  .navbar-nav .dropdown-menu {
+    background-color: transparent;
+    border: none;
+    text-align: center;
+  }
+  .navbar-nav .dropdown-menu .dropdown-item {
+    color: #2a92cb;
+  }
+  .carusel_section .item .cover .header-content .line {
+    height: 100%;
+  }
+  .carusel_section .owl-dots {
+    left: 40%;
+    bottom: 16px;
+  }
+  .scroll_bottom {
+    display: none;
+  }
+  .top_header .social_icon{
+    margin:10px auto !important
+  }
+ 
+}
